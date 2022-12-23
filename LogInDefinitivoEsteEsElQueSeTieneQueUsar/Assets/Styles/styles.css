@@ -93,10 +93,6 @@ input[type="password"]{
     cursor: pointer;
 }
 
-.button:hover{
-    background: #ef8354;
-}
-
 p{
     text-align: center;
 }

@@ -31,12 +31,11 @@ const crearNota = () => {
 
   <div class="imagen col-12 col-md-6 col-lg-4">
   <div class="card" style="width: 18rem;">
-    <img src="/assets/assets_blog/N2.jpg" class="card-img-top" alt="...">
+    <img src="./assets/assets_blog/navidad-unsplash.jpg" class="card-img-top" alt="...">
     <div class="card-body">
-      <h5 class="card-title">Castrar a un conejo - Precio, cuándo hacerlo y beneficios</h5>
-      <h6>Por: <a href="/perfilVet.html" target="_blank"> @Julian Martinez</a></h6>
-      <p class="card-text">La castración o esterilización es una práctica cada vez más extendida en los
-        animales de compañía, los beneficios que aporta </p>
+      <h5 class="card-title">Cuidados para mascotas en Navidad</h5>
+      <h6>Por: <a href="./perfilVet.html"> @Vet1_PetFF</a></h6>
+      <p class="card-text">A las puertas de la Navidad, es momento de prestarle atención a los cuidados para mascotas. Unos que no solo nos ayudarán a vivir estas fechas... </p>
 
       <!-- Leer nota modal -->
       <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#leernota"
@@ -53,54 +52,26 @@ const crearNota = () => {
               <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body">
-              <div class="titul">
-                <h1>Castrar a un conejo - Precio, cuándo hacerlo y beneficios</h1>
+              <div class="titulo">
+                <h1>Cuidados para mascotas en Navidad</h1>
               </div>
               <div class="portada">
-                <img src="/assets/assets_blog/N2.jpg" width="80%">
+                <img src="./assets/assets_blog/navidad-unsplash.jpg" width="80%">
               </div>
               <div class="datos">
                 <p>Por: @Vet</p>
-                <p> PUblicado: 12/12/2022</p>
+                <p> Publicado: 12/12/2022</p>
               </div>
               <div class="leercuerpo">
-                <p>¿Cuándo castrar a un conejo?
-                  La castración de los conejos debe realizarse cuando alcanzan su madurez sexual, es
-                  decir, cuando su grado de desarrollo sexual permite que la reproducción sea posible.
-                  Esto sucede cuando alcanzan aproximadamente el 80 % de su peso adulto.
+                <p>A las puertas de la Navidad, es momento de prestarle atención a los cuidados para mascotas. Unos que no solo nos ayudarán a vivir estas fechas en paz y armonía sino, además, a disfrutarlas manteniendo el bienestar de aquellos peludos con los que compartimos nuestras vidas.
 
-                  No se recomienda la castración de animales que no hayan alcanzado la madurez sexual,
-                  puesto que la cirugía podría ser más complicada debido al tamaño y la posición de los
-                  órganos reproductivos. Además, la castración temprana no supone ninguna ventaja
-                  adicional para la salud de estos animales.
-
-                  ¿Cuándo castrar o esterilizar a un conejo macho?
-                  En el caso de los machos, la madurez sexual se alcanza a los 3-5 meses, siendo
-                  ligeramente más precoces las razas de pequeño tamaño que las de gran tamaño. A partir
-                  de este momento, se podrá practicar la orquiectomía.
-
-                  Como apunte, es importante destacar que los machos continúan siendo fértiles durante 4
-                  semanas después de la castración, debido a que siguen teniendo espermatozoides viables
-                  en su aparato reproductor. Este hecho debe tenerse en cuenta para evitar gestaciones
-                  indeseadas.
-
-                  ¿Cuándo castrar o esterilizar a una coneja?
-                  Las hembras son algo más tardías que los machos. Alcanzan la madurez sexual en torno a
-                  los 4-6 meses, siendo también más precoces las razas pequeñas que las grandes. A
-                  partir de este momento, las hembras se podrán esterilizar por medio de una
-                  ovariohisterectomía o una ovariectomía.
-
-                  ¿Cuánto cuesta castrar a un conejo?
-                  Si deseas conocer el precio de esterilizar un conejo, lo mejor es que lo consultes con
-                  tu clínica de exóticos de confianza. Los precios pueden variar en función de la
-                  técnica empleada y de los requerimientos individuales de tu conejo/a.
-
-                  Algunas clínicas realizan campañas anuales de esterilización, en las que es posible
-                  esterilizar o castrar a los conejos a un precio más reducido del habitual.</p>
+                Porque es innegable: si para nosotros (humanos) la Navidad supone un estrés por diversos motivos (la compra de regalos para la que dimos ideas hace unos días, preparar los menús, hacer que nuestra mesa luzca y deje huella, etc), ellos nos viven ajenos a ese nerviosismo que se vive en muchos hogares y a todas las consecuencias propias de las fechas: cambios de casa, algarabías y gentío alrededor, más ruido del habitual, etc.
+                
+                Precisamente porque estas cosas son propias de la época, es importante tener en cuenta algunos consejos para cuidar nuestras mascotas en Navidad. Unos cuidados que persiguen, únicamente, un objetivo: que disfrute (como nosotros) estas fechas velando por su bienestar.</p>
               </div>
               <div class="referencias">
-                <p>REFerencias:
-                  https://www.expertoanimal.com/castrar-a-un-conejo-precio-cuando-hacerlo-y-beneficios-26152.html
+                <p>Referencias:
+                https://verdecora.es/blog/cuidados-mascotas-navidad
                 </p>
               </div>
               <div class="comentariosmegusta">

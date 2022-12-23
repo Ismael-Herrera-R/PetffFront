@@ -10,9 +10,9 @@ body{
     align-items: center;
     justify-content: center;
     background-image: url(/assets/modoNormal.png);
-    padding-top: 10px;
+    padding-top: 0px;
     font-family: 'Inria Sans', sans-serif;
-    font-size: 25px;
+    font-size: 16px;
 
 }
 h1{
@@ -135,6 +135,7 @@ background-color:#ffffff5c;
     text-align: center;
     padding-bottom: 20px;
     padding-top: 10px;
+    font-size: 35px;
 
 }
 
@@ -235,10 +236,8 @@ background-color:#ffffff5c;
 }
 
 
-/* barra de navegacion de abajo */
-
 .petColor {
-    color: #3BB287;
+    color: #3BB287 !important;
 }
 
 .petColor:hover {
@@ -259,7 +258,7 @@ background-color:#ffffff5c;
     margin-bottom: 5px;
 }
 
-.navBottom{
+.navBottom {
     border-top: 1px solid #3BB287;
 }
 
@@ -281,7 +280,7 @@ background-color:#ffffff5c;
     transition-duration: 500ms;
 }
 
-#news:hover{
+#news:hover {
     width: 40px;
 }
 
