@@ -303,9 +303,9 @@ h2{
 }
 
 .mascota {
-    text-align: center;
+    text-align: start;
     margin-top: 40px;
-    padding-left: 60px;
+    padding-left: 120px;
     margin-bottom: 0px;
     font-size: 20px;
     color: black;
@@ -316,9 +316,9 @@ h2{
 }
 
 .humano {
-    text-align: center;
+    text-align: start;
     font-size: 16px;
-    padding-left: 80px;
+    padding-left: 120px;
 }
 .textP{
     padding-left: 20px;
