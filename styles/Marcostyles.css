@@ -4,7 +4,7 @@
 }
 
 body{
-    background-image: url(../assets/huellas_modoNormal2.png);
+    background-image: url(../assets/modoNormal.png);
     font-family: 'Inria Sans', sans-serif;
 }
 
@@ -126,7 +126,7 @@ body{
 }
 
 #estetos {
-    width: 35px;
+    width: 28px;
     transition-duration: 500ms;
 }
 
@@ -139,16 +139,16 @@ body{
 }
 
 #news {
-    width: 35px;
+    width: 45px;
     transition-duration: 500ms;
 }
 
 #estetos:hover {
-    width: 30px;
+    width: 23px;
 }
 
 #new:hover{
-    width: 30px;
+    width: 40px;
 }
 
 #textofiltro{
@@ -214,7 +214,7 @@ body{
     color: #3BB287;
 }
 
-@media (min-width: 768px){
+@media(min-width: 768px){
     #publicidad1{
         margin-bottom: 0px;
     }
