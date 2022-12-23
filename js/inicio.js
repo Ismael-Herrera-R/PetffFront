@@ -83,7 +83,7 @@ buttonAdd.addEventListener("click", function() {
         <div class="row">
           <div class="container leftT">
             <p class="">
-              Fuimos a dar un paseo en bicicleta
+              Tomando el sol
             </p>
           </div>
         </div>
