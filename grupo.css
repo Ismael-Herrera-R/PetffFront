@@ -4,7 +4,7 @@
     font-family: 'Inria Sans', sans-serif;
 }
 body{/*fondo pagina*/
-    background-image: url(/assets/icons/modoNormal.png);
+    background-image: url(./assets/IMG/modoNormal.png);
 }
 #encabezado{
     background-color:#EBF2EB;
@@ -45,14 +45,14 @@ img{
     background-color: #3bb287;
     margin: 15px;
     padding: 10px;
-    border-radius: 30PX; 
+    border-radius: 12PX; 
     width: 300px;
     height: 50px; 
     border: 1px solid #3BB287;
     margin-top: 80px;
 }
 .dropdown-menu{
-    background-image: url(/assets/icons/fondo.jpeg); 
+    background-image: url(./assets/icons/fondo.jpeg); 
 }
 .botones{
     border-radius: 30px;
@@ -122,7 +122,7 @@ h2{
     font-size: 16px;
 }
 .offcanvas-body{
-    background-image: url(/assets/icons/modoNormal.png);
+    background-image: url(./assets/icons/modoNormal.png);
     text-justify: auto;
 }
 
@@ -303,9 +303,9 @@ h2{
 }
 
 .mascota {
-    text-align: center;
+    text-align: start;
     margin-top: 40px;
-    padding-left: 60px;
+    padding-left: 120px;
     margin-bottom: 0px;
     font-size: 20px;
     color: black;
@@ -316,12 +316,13 @@ h2{
 }
 
 .humano {
-    text-align: center;
+    text-align: start;
     font-size: 16px;
-    padding-left: 80px;
+    padding-left: 120px;
 }
 .textP{
     padding-left: 20px;
+    font-size: 20px;
 }
 
 .leftT {
