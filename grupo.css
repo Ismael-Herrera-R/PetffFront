@@ -45,7 +45,7 @@ img{
     background-color: #3bb287;
     margin: 15px;
     padding: 10px;
-    border-radius: 30PX; 
+    border-radius: 12PX; 
     width: 300px;
     height: 50px; 
     border: 1px solid #3BB287;
@@ -322,6 +322,7 @@ h2{
 }
 .textP{
     padding-left: 20px;
+    font-size: 20px;
 }
 
 .leftT {
