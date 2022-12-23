@@ -22,7 +22,7 @@ body{
     width: 400px;
 }
 
-#boton{
+#boton #botonEnviar{
     color:#EBF2EB !important; 
     background-color: #3BB287 !important;
 }
@@ -66,6 +66,7 @@ html, body {
     color: #EBF2EB;
  }
 
+ 
 
 
  /*  margin: auto;
