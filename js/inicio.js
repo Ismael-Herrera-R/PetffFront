@@ -70,8 +70,8 @@ buttonAdd.addEventListener("click", function() {
               alt="Foto de perfil mascota">
             <img id="perfilHumano" src="./assets/IMG/travis.jpg" alt="Foto de perfil humano">
             <div class="container d-flex flex-column names">
-              <a href="./perfil.html" class="mascota" target="_blank">Max el Beagle</a>
-              <p class="humano">José Sánchez</p>
+              <a href="./perfil.html" class="mascota" target="_blank">Bugs</a>
+              <p class="humano">Julian Martinez</p>
             </div>
           </div>
           <!-- hora de publicación -->
